@@ -1,0 +1,12 @@
+tt7286456,
+tt8579674,
+tt4154796,
+tt8420184,
+tt0944947,
+tt1375666,
+tt1950186,
+tt0816692,
+API: http://www.omdbapi.com/?i=tt3896198&apikey=a26f20ed
+
+API usage: http://www.omdbapi.com/?apikey=[yourkey]&i=[id]
+"http://www.omdbapi.com/?apikey=a26f20ed&i=tt7286456"
